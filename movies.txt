@@ -7,13 +7,10 @@ Showing Ryan's Privates
 Sharing Ryan's Privates
 Shoving Ryan's Privates
 Earth girls are easy
-<<<<<<< HEAD
 Bang Bus
 blahblablah
 ASDF
 QWERTY
 
 Done by branch:maggy
-=======
 Dang Bus
->>>>>>> 823351d067293fbe1060121206099c8942d3de9d
